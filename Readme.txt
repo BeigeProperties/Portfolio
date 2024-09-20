@@ -1,0 +1,1 @@
+Home text is under defult in themes at home.html or something similar have a look around

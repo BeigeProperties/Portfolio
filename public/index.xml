@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Services on Beige Properties</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Our Services on Beige Properties</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>At Beige Properties, we specialise in offering housing solutions that meet the needs of local councils and their communities. Our mission is to bridge the gap between property owners and local authorities, ensuring that vulnerable individuals have access to secure and comfortable homes. With a commitment to excellence and community welfare, we strive to make a positive impact in the housing sector by providing high-quality, reliable housing options.</description>
+    </item>
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Get in Touch We&amp;rsquo;d love to hear from you. Whether you&amp;rsquo;re a property owner looking to collaborate or a council representative seeking housing solutions, reach out to us.&#xA;Phone: 07440 076237 Email: hello@beigeproperties.com </description>
+    </item>
+    <item>
+      <title>Our Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>Property Acquisition: We identify and acquire properties that meet the standards for council housing, ensuring they are safe, habitable, and located in accessible areas. Property Management: Our team takes care of all aspects of property management, from maintenance to tenant relations, ensuring a hassle-free experience for property owners. Council Liaison: We work closely with local councils to provide housing for vulnerable individuals, handling all the necessary paperwork and compliance requirements.</description>
+    </item>
+  </channel>
+</rss>

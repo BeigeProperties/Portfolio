@@ -1,0 +1,49 @@
+baseURL = 'http://saral-hugo-theme.pages.dev'
+languageCode = 'en-us'
+title = 'Beige Properties'
+author = "dipeshsingh253"
+
+# theme = 'saral'
+pygmentsCodefences = true
+pygmentsStyle = "doom-one"
+
+[params]
+    logoText = "Beige Properties"
+    isBlogFocused = true
+    showHeroImage = true
+    showResumeButton = false
+    math = true
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['@@', '@@']]
+          inline = [['@', '@']]
+    
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 3
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+
+  [module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.92.0"
+    max = "0.123.8"
